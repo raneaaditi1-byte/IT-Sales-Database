@@ -31,9 +31,3 @@ orders and sales performance tracking.
 - MySQL 8.0
 - MySQL Workbench
 
-## 🚀 How to run
-1. Open MySQL Workbench
-2. Go to Server → Data Import
-3. Import the .sql file
-4. Run USE it_sales_db;
-5. Execute any query!
